@@ -1,1 +1,43 @@
 部门培训到上周就结束了 之后的日志 周2周3下午会议可以填部门会议 每周4小时以内的个人学习或者分享可以填到部门培训 部门面谈可以填人事 其他的你们要填项目任务 就是项目里给你们安排的任务 熟悉项目 开发模块 单元测试。。之类
+
+下午的线上学习请同学梦点击以下链接后进入学习平台开始学习：
+《新员工认证课程》： (账号：工号，密码：99U登录密码)
+  http://elearning.101.com/ndu/e/trains/2181
+《ND守法攻略》： 
+ http://ndu.99.com//course/CourseInfo.aspx?id=11961&amp;CourseSerCode=11774
+
+
+新同学们，谁想转技能的，不论之前是否统计过，请于15日前统一告知 杨烨(958698); (目前ios/U3D需求量较大，java/android相对过剩)
+
+JAVA技术书籍
+《Effective Java》
+《Java编程思想》
+《Java核心技术:卷I》
+《Java核心技术:卷II》
+《Spring In Action》
+《maven权威指南》
+《spring技术内幕》
+
+网络资源：
+Spring 视频教程
+链接: http://pan.baidu.com/s/1dEEjGYX 密码: g58p
+Junit视频教程：
+http://pan.baidu.com/s/1qYVE1cg 密码: u538
+idea的使用视频教程：
+http://pan.baidu.com/s/1kVQyXD1 密码: 5r4a
+git教程：
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/
+
+代码规范
+http://wiki.sdp.nd/index.php?title=%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83(%E7%AE%A1%E7%90%86)
+
+IOS学习材料
+http://git.sdp.nd/Standard-iOS/Development-Statute/blob/master/iOS-Learning-Guide.md
+
+
+安卓学习材料
+http://pan.baidu.com/s/1qYovvdi
+
+C++学习材料：
+http://www.enet.com.cn/eschool/video/c++/
+http://www.weixueyuan.net/cpp/rumen/
